@@ -1,0 +1,8 @@
+prefix=/home/liuxy/ros_ws/devel
+
+Name: number_comm
+Description: Description of number_comm
+Version: 0.0.0
+Cflags: -I/home/liuxy/ros_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_generation roscpp std_msgs message_runtime
