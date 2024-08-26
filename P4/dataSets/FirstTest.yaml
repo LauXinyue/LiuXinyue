@@ -1,0 +1,10 @@
+train: C:\Users\11602\Documents\ultralytics-main\dataSets\FirstTest\train
+val: C:\Users\11602\Documents\ultralytics-main\dataSets\FirstTest\valid
+test: C:\Users\11602\Documents\ultralytics-main\dataSets\FirstTest\test
+
+nc: 3
+# Classes
+names:
+  0: blue
+  1: red
+  2: invalid
